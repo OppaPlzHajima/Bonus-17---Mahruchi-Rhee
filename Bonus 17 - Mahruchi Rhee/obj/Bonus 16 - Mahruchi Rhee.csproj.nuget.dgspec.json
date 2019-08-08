@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mahru\\source\\repos\\Bonus 16 - Mahruchi Rhee - Copy\\Bonus 16 - Code Alone with Tommy\\Bonus 16 - Mahruchi Rhee.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mahru\\source\\repos\\Bonus 16 - Mahruchi Rhee - Copy\\Bonus 16 - Code Alone with Tommy\\Bonus 16 - Mahruchi Rhee.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mahru\\source\\repos\\Bonus 16 - Mahruchi Rhee - Copy\\Bonus 16 - Code Alone with Tommy\\Bonus 16 - Mahruchi Rhee.csproj",
+        "projectName": "Bonus 16 - Mahruchi Rhee",
+        "projectPath": "C:\\Users\\mahru\\source\\repos\\Bonus 16 - Mahruchi Rhee - Copy\\Bonus 16 - Code Alone with Tommy\\Bonus 16 - Mahruchi Rhee.csproj",
+        "packagesPath": "C:\\Users\\mahru\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahru\\source\\repos\\Bonus 16 - Mahruchi Rhee - Copy\\Bonus 16 - Code Alone with Tommy\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mahru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

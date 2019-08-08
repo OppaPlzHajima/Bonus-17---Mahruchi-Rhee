@@ -1,0 +1,11 @@
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\obj\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.csproj.CoreCompileInputs.cache
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\obj\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.AssemblyInfoInputs.cache
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\obj\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.AssemblyInfo.cs
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\bin\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.deps.json
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\bin\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.runtimeconfig.json
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\bin\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.runtimeconfig.dev.json
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\bin\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.dll
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\bin\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.pdb
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\obj\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.dll
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\obj\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.pdb
+C:\Users\mahru\source\repos\Bonus 16 - Code Alone with Tommy\Bonus 16 - Code Alone with Tommy\obj\Debug\netcoreapp2.1\Bonus 16 - Code Alone with Tommy.csprojAssemblyReference.cache
